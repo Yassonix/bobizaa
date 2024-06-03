@@ -138,7 +138,7 @@ contextInfo: {
 externalAdReply: {
 title: 'YASSINE BOT ♥',
 body: "ياسين يرحب بكم أول بوت واتساب في العالم العربي 💖",
-thumbnailUrl: 'https://telegra.ph/file/328e503fed5682975a1f7.jpg',
+thumbnailUrl: 'https://telegra.ph/file/f98278ad24bcdd689fd1c.png',
 sourceUrl: 'https://instagram.com/x_yassiii_1',
 mediaType: 1,
 renderLargerThumbnail: true
