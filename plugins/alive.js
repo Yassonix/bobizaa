@@ -6,7 +6,7 @@ let handler = async (m, { conn }) => {
 │🤖 أتمنى أنك بخير ♥ البوت أون لاين الآن 
 يمكنك إستخدامه عبر كتابة menu.
 ╰────────────────────
-*─[ BY NOUREDDINE_OUAFY ]*🌟✨
+*─[ BY YASSINE AMHAMDI     MY INSTA : https://www.instagram.com/gtx_33_ys?igsh=bG4xZDVmaGp5am03 ]*🌟✨
 `.trim()
   m.reply(caption)
 }
